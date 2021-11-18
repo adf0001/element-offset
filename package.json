@@ -1,0 +1,26 @@
+{
+  "name": "element-offset",
+  "version": "1.0.1",
+  "description": "get another element by offsetting the tail number of an element id",
+  "main": "element-offset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "element",
+    "offset"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/element-offset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/element-offset/issues"
+  },
+  "homepage": "https://github.com/adf0001/element-offset#readme"
+}
